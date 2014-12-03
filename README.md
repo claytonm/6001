@@ -16,3 +16,6 @@ This project emphasizes higher-order procedures and abstract data types (ADTs). 
 1. pairs and lists as building blocks for more elaborate ADTs,
 2. the interplay between processes and data types, and
 3. symoblic data.
+
+## Project 3
+Mutation! Up until now, the programming has been purely functional. Up until now, a given procedure would always return the same results as output when passed the same expressions as inputs.
