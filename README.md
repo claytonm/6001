@@ -18,4 +18,9 @@ This project emphasizes higher-order procedures and abstract data types (ADTs). 
 3. symoblic data.
 
 ## Project 3
-Mutation! Up until now, the programming has been purely functional. Up until now, a given procedure would always return the same result as output when passed the same expressions as inputs. Mutation (or assingment, same thing), changes all of that. In particular, the simple substitution model no longer holds. In its place we introduce the environment model of evaluation. This project explores these ideas through the construction of a Sudoku solver. 
+Mutation! Up until now, the programming has been purely functional. Up until now, a given procedure would always return the same result as output when passed the same expressions as inputs. Mutation (or assingment, same thing), changes all of that. In particular, the simple substitution model no longer holds. In its place we introduce the environment model of evaluation. Most intro programming courses elide the issues that mutation/assingment. raise, but 6.001 has a way of problematizing things that other courses take for granted. This is a good thing. This project explores these ideas through the construction of a Sudoku solver. 
+
+## Project 4
+Object orientation. In this project we join the 21st century and implement a quirky object-oriented system. In Scheme, this means modeling objects with state as procedures with internal state variables. Objects interact through message-passing. An action-adventure game is implemented. 
+
+## Project 4
