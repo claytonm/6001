@@ -11,8 +11,8 @@ The first project explores the application of procedures to numeric data. Throug
 4. substitution model of evaluation.
 
 ## Project 2
-This project emphasizes the interplay between higher-order procedures and abstract data types (ADTs). Through the construction of a pattern-matching machine, you learn about: 
+This project emphasizes higher-order procedures and abstract data types (ADTs). Through the construction of a pattern-matching machine, you learn about: 
 
-1. Pairs and lists as building blocks for more elaborate ADTs,
-2. The correspondence between certain processes and data types, and
+1. pairs and lists as building blocks for more elaborate ADTs,
+2. the interplay between processes and data types, and
 3. symoblic data.
