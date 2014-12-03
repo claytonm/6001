@@ -15,7 +15,7 @@ This project emphasizes higher-order procedures and abstract data types (ADTs). 
 
 1. pairs and lists as building blocks for more elaborate ADTs,
 2. the interplay between processes and data types, and
-3. symoblic data.
+3. symbolic data.
 
 ## Project 3
 Mutation! Up until now, the programming has been purely functional. Up until now, a given procedure would always return the same result as output when passed the same expressions as inputs. Mutation (or assingment, same thing), changes all of that. In particular, the simple substitution model no longer holds. In its place we introduce the environment model of evaluation. Most intro programming courses elide the issues that mutation/assingment. raise, but 6.001 has a way of problematizing things that other courses take for granted. This is a good thing. This project explores these ideas through the construction of a Sudoku solver. 
