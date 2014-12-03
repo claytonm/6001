@@ -1,6 +1,6 @@
 # 6.001
 
-Solutions to MIT Course 6.001 Projects. All solutions are written in the RSR5 version of Scheme, in the DrScheme development environment.
+Solutions to the projects from the Spring 2007 iteration of MIT Course 6.001. All solutions are written in the RSR5 version of Scheme, in the DrScheme development environment.
 
 ## Project 1
 The first project explores the application of procedures to numeric data. Through the construction of an RSA encryption system, the project covers:
