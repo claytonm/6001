@@ -18,4 +18,4 @@ This project emphasizes higher-order procedures and abstract data types (ADTs). 
 3. symoblic data.
 
 ## Project 3
-Mutation! Up until now, the programming has been purely functional. Up until now, a given procedure would always return the same results as output when passed the same expressions as inputs. Mutation (or assingment, same thing), changes all of that. In particular, the simple substitution model no longer holds. In its place we introduce the environment model of evaluation. This project explores these ideas through the construction of a Sudoku solver. 
+Mutation! Up until now, the programming has been purely functional. Up until now, a given procedure would always return the same result as output when passed the same expressions as inputs. Mutation (or assingment, same thing), changes all of that. In particular, the simple substitution model no longer holds. In its place we introduce the environment model of evaluation. This project explores these ideas through the construction of a Sudoku solver. 
