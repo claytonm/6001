@@ -18,4 +18,4 @@ This project emphasizes higher-order procedures and abstract data types (ADTs). 
 3. symoblic data.
 
 ## Project 3
-Mutation! Up until now, the programming has been purely functional. Up until now, a given procedure would always return the same results as output when passed the same expressions as inputs.
+Mutation! Up until now, the programming has been purely functional. Up until now, a given procedure would always return the same results as output when passed the same expressions as inputs. Mutation (or assingment, same thing), changes all of that. 
