@@ -24,4 +24,4 @@ Mutation! Up until now, the programming has been purely functional; that is, a g
 Object orientation. In this project we join the 21st century and implement a quirky object-oriented system. In Scheme, this means modeling objects with state as procedures with internal state variables. Objects interact through message-passing. An action-adventure game is implemented. 
 
 ## Project 5
-Have you ever struggled to express your thoughts in a given language? Then change the language! In Project 5 we get meta, and implement an evaluator for Scheme in Scheme itself, a so-called meta-circular evaluator. Possible applications are explored, included functions that document their own evaluation.
+Have you ever struggled to express your thoughts in a given language? Then change the language! In Project 5 we get meta, and implement an evaluator for Scheme in Scheme itself, a so-called meta-circular evaluator. Possible applications are explored, including functions that document their own evaluation.
